@@ -207,13 +207,6 @@ name = "kv_store"
 version = "0.1.0"
 
 [[package]]
-name = "lab"
-version = "0.1.0"
-dependencies = [
- "rand",
-]
-
-[[package]]
 name = "lang_interpreter"
 version = "0.1.0"
 

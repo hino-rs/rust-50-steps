@@ -1,3 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
+use std::env;
+
+fn main() {}
