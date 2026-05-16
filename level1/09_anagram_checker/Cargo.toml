@@ -1,0 +1,7 @@
+[package]
+name = "anagram_checker"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+[dependencies]
