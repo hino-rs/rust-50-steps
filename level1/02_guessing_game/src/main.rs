@@ -1,3 +1,5 @@
-fn main() {
-    println!("Hello, world!");
-}
+use std::cmp::Ordering::*;
+
+fn main() {}
+
+fn input() {}
